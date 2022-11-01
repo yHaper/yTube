@@ -2,7 +2,9 @@
 
 ---
 
-I created this tool just to test my basic study knowledge
+I made this tool based on my python studies.
+It downloads videos and audios from youtube. 
+Just choose the format, and add the link.
 
 ![yTube](https://user-images.githubusercontent.com/78314660/199125739-01802f00-3bf9-408f-9028-2339477f0ffd.jpg)
 
