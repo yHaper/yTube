@@ -19,7 +19,7 @@ os.system("clear")
 
 var = 0
 while var <1:
-	print ("\033[1;31mＹＴ  Ｄｏｗｎｌｏａｄ\033[m MP4\n\033[0;31m   ᵇʸ ʸᴴᵃᵖᵉʳ\n\033[m")
+	print ("\033[1;31mＹＴ  Ｄｏｗｎｌｏａｄ\033[m \n\033[0;31m   ᵇʸ ʸᴴᵃᵖᵉʳ\n\033[m")
 	print ("\033[0;31mWhat do you want, {} ?\033[m" .format(name))
 	print ("\033[31m[1] \033[mDownload MP4\n\033[0;31m[2] \033[mDownload MP3\n\033[0;31m[3]\033[m Go out")
 	py = input("\n\033[0;31m~ \033[m")
@@ -97,7 +97,7 @@ while var <1:
 	
 	if py == '3':
 		os.system("clear")
-		print ("\033[0;31mGoodbye!\033[m")
+		print ("\033[0;31mSee you later!\033[m")
 		break
 		
 	else:
