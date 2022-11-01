@@ -14,12 +14,35 @@ I created this tool just to test my basic study knowledge
 pkg install python
 ```
 
-## 2.Then install git in termux
+## 2.Install pytube, using pip
+
+```
+pip install pytube
+```
+
+## 3.Then install git in termux
 
 ```
 pkg install git
 ```
 
-## 3.Copy the repository address link and run the following command
+## 4.Copy the repository address link and run the following command
 
 ```
+git clone https://github.com/yHaper/yTube
+```
+
+## 5.Go to the repository folder using the following command
+
+```
+cd yTube
+```
+
+## 6.Finally, run the script with the following command
+
+```
+python yTube.py
+```
+
+## Technologies
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
